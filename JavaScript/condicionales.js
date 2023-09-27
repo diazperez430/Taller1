@@ -89,6 +89,10 @@ Si X es negativo y Y es positivo, el punto se encuentra en el cuadrante 4 */
 
 // }
 
+
+
+
+
 // else {
 //     alert("Ingrese su dato como número")
 // }
