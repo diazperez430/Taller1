@@ -48,13 +48,13 @@ de la lista y muestra toda la lista en consola */
 muestra la información de la persona en la consola accediendo directamente a sus propiedades. El mensaje debe 
 decir algo como: Juan tiene 45 años y vive en la calle 63 con carrera 24. */
 
-let persona = {
-    name : "Claudio",
-    age : 26,
-    address: "Carrera 36 #3-41",
-}
+// let persona = {
+//     name : "Claudio",
+//     age : 26,
+//     address: "Carrera 36 #3-41",
+// }
 
-console.log (`${persona.name} tiene ${persona.age} años y vive en la ${persona.address}`)
+// console.log (`${persona.name} tiene ${persona.age} años y vive en la ${persona.address}`)
 
 
 
