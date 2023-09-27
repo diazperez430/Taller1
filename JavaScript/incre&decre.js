@@ -32,13 +32,13 @@ unidad*/
 // let genero = prompt("Ingresa tu género como (M / F)");
 // let precio = 7;
 
-// if(genero= "m" ){
-//     precio+=
+// if(genero== "m" ){
+//     precio+=2
 //     alert(`${nombre} tu entrada a la disco vale $${precio}`);
 //  }
 
-// else if(genero= "f" ){
-//     precio-=
+// else if(genero== "f" ){
+//     precio-=2
 //     alert(`${nombre} tu entrada a la disco vale $${precio}`);
 // }
 
