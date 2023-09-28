@@ -19,47 +19,26 @@ Si saca 4.1 y hasta 5.0 ( 'Excelente' ) */
 // let average=suma/3
 // console.log(average)
 
-// let expresion
-
-// if (average<2.5){
-//     expresion="Insuficiente, has perdido la materia"
-// }
-
-// else if (average>=2.5 && average<3.5){
-//     expresion="Insuficiente, tienes derecho a habilitar"}
-
-// else if (average>3.5 && average<4){
-//     expresion="Aceptable"
-// }
-// else if(average>4.1 && average<=5){
-//     expresion="Excelente"
-// }
-
-// else{
+// switch(true){
     
-//     alert("No ingresaste los valores del 1 al 5")
-// }
-
-
-
-
-// switch(expresion){
-
-//     case "Insuficiente, has perdido la materia":
-//         alert("Insuficiente, has perdido la materia")
-//         break;
+//     case average<2.5:
+//     alert("Insuficiente, has perdido la materia");
+//     break;
     
-//     case "Insuficiente, tienes derecho a habilitar":
-//         alert("Insuficiente, tienes derecho a habilitar")
-//         break;
-
-//     case "Aceptable":
-//         alert("Aceptable")
-//         break;
+//     case average >=2.5 && average < 3.5:
+//     alert("Insuficiente, tienes derecho a habilitar");
+//     break;
     
-//     case "Excelente":
-//         alert("Excelente")
-//         break;
-// }
+//     case average >= 3.5 && average < 4:
+//     alert("Aceptable");
+//     break;
 
+//     case average >= 4 && average <= 5:
+//     alert("Excelente");
+//     break;
+    
+//     default:
+//     alert("Ingrese un valor válido")
+
+// }
 
